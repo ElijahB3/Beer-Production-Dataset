@@ -1,2 +1,3 @@
 # Beer-Production-Dataset
 My second project in regards to practicing Data Science Techniques on a data set about beer! Which is wildly popular amongst my group of friends....
+I used sklearn, numpy, pandas and matplotlip to visualize, run tests and interpret my data.
